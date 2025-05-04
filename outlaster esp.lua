@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JustChillBroOut/main/refs/heads/main/outlaster.lua"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/uVR989i8"))()
