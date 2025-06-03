@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/uVR989i8"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/b9mr4GrB"))()
 
 
 --[[use "v" for enabling and disbaling
